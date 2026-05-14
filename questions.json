@@ -1,5 +1,5 @@
 {
-    "What is History?": {
+  "What is History?": {
     "subtitle": "The study of history, sources, historians and timelines.",
     "icon": "📜",
     "questions": [
@@ -221,7 +221,6 @@
       }
     ]
   },
-{
   "Plantations of Ireland": {
     "subtitle": "Plantations",
     "icon": "🏰",
