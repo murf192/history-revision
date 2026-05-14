@@ -1,6 +1,228 @@
+"What is History?": {
+    "subtitle": "The study of history, sources, historians and timelines.",
+    "icon": "📜",
+    "questions": [
+      {
+        "q": "What is history?",
+        "options": ["The study of science and nature", "The study of the past", "The study of future events", "The study of geography"],
+        "answerIndex": 1,
+        "explanation": "History is the study of the past, based on evidence and the study of sources."
+      },
+      {
+        "q": "What is a source in history?",
+        "options": ["A type of map used by explorers", "A river used for transport", "Something that gives us information or evidence about a person, place or thing in the past", "A book written by a scientist"],
+        "answerIndex": 2,
+        "explanation": "A source is something that gives us information or evidence about a person, place or thing in the past."
+      },
+      {
+        "q": "What does the word 'prehistory' refer to?",
+        "options": ["Events that happened during the Middle Ages", "The period of time before writing was used", "The study of ancient languages", "Events that happened after writing began"],
+        "answerIndex": 1,
+        "explanation": "Prehistory refers to the period of time before writing was used."
+      },
+      {
+        "q": "What is archaeology?",
+        "options": ["The study of the stars and planets", "The study of ancient languages", "The study of the remains left by people in the past", "The study of modern governments"],
+        "answerIndex": 2,
+        "explanation": "Archaeology is the study of the remains left by people in the past."
+      },
+      {
+        "q": "What type of evidence do we rely on for the prehistoric period?",
+        "options": ["Written documents and diaries", "Newspapers and books", "Archaeological remains", "Government records"],
+        "answerIndex": 2,
+        "explanation": "Because writing did not exist in prehistoric times, we rely on archaeology for evidence from this period."
+      },
+      {
+        "q": "The Annals of the Four Masters is an example of what type of source?",
+        "options": ["A prehistoric source", "A written historical source", "An archaeological artefact", "A visual source"],
+        "answerIndex": 1,
+        "explanation": "The Annals of the Four Masters is a written historical source — an account of Irish history written by Irish monks."
+      },
+      {
+        "q": "Where does the word 'history' come from?",
+        "options": ["The Latin word for 'time'", "The French word for 'story'", "The Greek word 'historia' meaning 'knowledge from investigation'", "The Roman word for 'past'"],
+        "answerIndex": 2,
+        "explanation": "History comes from the Greek word historia, which means 'knowledge from investigation'."
+      },
+      {
+        "q": "Which of the following is an example of a prehistoric source?",
+        "options": ["A diary entry", "A government document", "A weapon made by people to hunt for food", "A newspaper article"],
+        "answerIndex": 2,
+        "explanation": "A weapon made by people to hunt for food is an example of a prehistoric source — a physical object from before writing existed."
+      },
+      {
+        "q": "When studying history, what do historians investigate?",
+        "options": ["Only what happened, not why", "Not only what happened but why it happened", "Only the dates of events", "Only the lives of kings and queens"],
+        "answerIndex": 1,
+        "explanation": "Historians investigate not only what happened but why it happened."
+      },
+      {
+        "q": "History concerns itself with the story of what?",
+        "options": ["Animal behaviour", "Human activity", "Natural disasters", "The solar system"],
+        "answerIndex": 1,
+        "explanation": "History concerns itself with the story of human activity."
+      },
+      {
+        "q": "Which of the following best describes a historian?",
+        "options": ["Someone who predicts future events", "Someone who studies only prehistoric remains", "Someone who is an expert in, or a student of, history", "Someone who studies geography"],
+        "answerIndex": 2,
+        "explanation": "A historian is someone who is an expert in, or a student of, history."
+      },
+      {
+        "q": "What does an archaeologist do?",
+        "options": ["Studies written records from modern times", "Investigates places and objects left by people in the past, including before written records", "Writes biographies of famous people", "Studies the movement of stars"],
+        "answerIndex": 1,
+        "explanation": "An archaeologist investigates places and objects left by people in the past, including the time before written records were kept."
+      },
+      {
+        "q": "What is 'historical consciousness'?",
+        "options": ["The ability to memorise historical dates", "Being able to place ourselves in past human experience, linking the past, the present and the future", "The study of ancient maps and timelines", "Understanding only recent history"],
+        "answerIndex": 1,
+        "explanation": "Historical consciousness means being able to place ourselves in past human experience, linking the past, the present and the future."
+      },
+      {
+        "q": "Which of the following is a reason why we study history?",
+        "options": ["To predict the weather", "To learn how people lived before us", "To study future technology", "To understand foreign languages"],
+        "answerIndex": 1,
+        "explanation": "One key reason we study history is to learn how people lived before us."
+      },
+      {
+        "q": "What is cross-checking in history?",
+        "options": ["Writing a summary of one source", "Visiting a museum to find evidence", "Using more than one source to make sure information is correct", "Reading only primary sources"],
+        "answerIndex": 2,
+        "explanation": "Cross-checking is when more than one source is used to make sure the information is correct."
+      },
+      {
+        "q": "What is a historical repository?",
+        "options": ["A book about ancient history", "A place where evidence of the past can be stored and maintained", "A type of archaeological tool", "A website with historical information"],
+        "answerIndex": 1,
+        "explanation": "A historical repository is a place where evidence of the past can be stored and maintained, such as artefacts, government documents, manuscripts or photographs."
+      },
+      {
+        "q": "What is an archive?",
+        "options": ["A place that collects and displays objects for public education", "A type of prehistoric weapon", "A place that catalogues and stores a collection of written and other sources", "A government building where laws are made"],
+        "answerIndex": 2,
+        "explanation": "An archive is a place that catalogues and stores a collection of written and other sources."
+      },
+      {
+        "q": "What is a museum?",
+        "options": ["A place that catalogues written documents only", "A place that collects and displays objects for public education and appreciation", "A place where historians write books", "A government office storing tax records"],
+        "answerIndex": 1,
+        "explanation": "A museum is a place that collects and displays objects for public education and appreciation."
+      },
+      {
+        "q": "The National Archives of Ireland in Dublin is an example of what?",
+        "options": ["A museum", "A library", "An archive", "A historical repository and archive"],
+        "answerIndex": 3,
+        "explanation": "The National Archives of Ireland is both a historical repository and an archive — it catalogues and stores sources including records of the Irish State."
+      },
+      {
+        "q": "What is a primary source?",
+        "options": ["A source written by a secondary author", "A source from a later date, after the time in question", "A source from the time of the event; a first-hand account of what happened", "A source found only in museums"],
+        "answerIndex": 2,
+        "explanation": "A primary source is a source from the time of the event; a first-hand account of what happened."
+      },
+      {
+        "q": "What is a secondary source?",
+        "options": ["A source from the time of the event", "A source from a later date, after the time in question", "An artefact found by an archaeologist", "A first-hand account of events"],
+        "answerIndex": 1,
+        "explanation": "A secondary source is a source from a later date, after the time of the event."
+      },
+      {
+        "q": "Which of the following is an example of a primary source?",
+        "options": ["A history textbook", "A TV documentary", "A diary written at the time of an event", "A biography written 50 years later"],
+        "answerIndex": 2,
+        "explanation": "A diary written at the time of an event is a primary source — a first-hand account from the time in question."
+      },
+      {
+        "q": "Which of the following is an example of a secondary source?",
+        "options": ["A photograph taken during a war", "A letter written during an event", "An autobiography", "A history textbook"],
+        "answerIndex": 3,
+        "explanation": "A history textbook is a secondary source — it is written after the event by someone who was not there."
+      },
+      {
+        "q": "What is an artefact?",
+        "options": ["A written document from the past", "Any human-made object such as pottery, a tool or a weapon", "A type of archive found in museums", "A secondary source written by a historian"],
+        "answerIndex": 1,
+        "explanation": "An artefact is any human-made object, e.g. pottery, a tool or a weapon."
+      },
+      {
+        "q": "What is a census?",
+        "options": ["A type of artefact found in museums", "An autobiography written by a famous person", "An official survey of a population", "A collection of old newspapers"],
+        "answerIndex": 2,
+        "explanation": "A census is an official survey of a population. In Ireland, a census is held every five years."
+      },
+      {
+        "q": "What is the difference between an autobiography and a biography?",
+        "options": ["There is no difference — they mean the same thing", "An autobiography is written by someone else; a biography is written by the person themselves", "An autobiography is written by the person themselves; a biography is written by someone else", "Both are always secondary sources"],
+        "answerIndex": 2,
+        "explanation": "An autobiography is an account of a person's life written by the person themselves; a biography is written by someone else."
+      },
+      {
+        "q": "What is a handling box?",
+        "options": ["A box used to store artefacts in a museum archive", "A box containing replicas of artefacts so anyone can examine them without damaging originals", "A tool used by archaeologists on a dig", "A container for storing written documents"],
+        "answerIndex": 1,
+        "explanation": "A handling box contains replicas (copies) of artefacts, so that anyone can examine them without damaging an original."
+      },
+      {
+        "q": "What does 'accuracy' mean when evaluating a historical source?",
+        "options": ["How old the source is", "Judging how correct the information you are using is", "Whether the source was written by a historian", "How many people read the source"],
+        "answerIndex": 1,
+        "explanation": "Accuracy involves judging how correct the information you are using is."
+      },
+      {
+        "q": "What is bias in a historical source?",
+        "options": ["When a source is from the correct time period", "When an account is not balanced but unfairly favours one side", "When a source has been cross-checked", "When information is presented as a timeline"],
+        "answerIndex": 1,
+        "explanation": "Bias is when an account is not balanced, but unfairly favours one side."
+      },
+      {
+        "q": "What is propaganda?",
+        "options": ["A factual account of past events written by a historian", "Information designed to influence the attitudes and behaviours of the general public", "A type of primary source found in archives", "An unbiased summary of historical events"],
+        "answerIndex": 1,
+        "explanation": "Propaganda is information that has been designed to influence the attitudes and behaviours of the general public. It is generally biased and may appeal to emotions."
+      },
+      {
+        "q": "What is exaggeration in the context of historical sources?",
+        "options": ["When a source is perfectly accurate", "When something is represented as better or worse than it actually was", "When a historian uses too many sources", "When a source is translated from another language"],
+        "answerIndex": 1,
+        "explanation": "Exaggeration is when something is represented as better or worse than it actually was."
+      },
+      {
+        "q": "What is chronology?",
+        "options": ["The study of prehistoric artefacts", "Putting events into the sequence in which they happened", "The study of ancient languages and writing", "A type of historical repository"],
+        "answerIndex": 1,
+        "explanation": "Chronology means putting events into the sequence in which they happened."
+      },
+      {
+        "q": "What does BCE stand for?",
+        "options": ["Before Current Events", "Before Christian Era", "Before the Common Era", "British Century of Events"],
+        "answerIndex": 2,
+        "explanation": "BCE stands for Before the Common Era. It refers to any date before the birth of Jesus Christ."
+      },
+      {
+        "q": "How many years are in a millennium?",
+        "options": ["10 years", "100 years", "500 years", "1,000 years"],
+        "answerIndex": 3,
+        "explanation": "A millennium is 1,000 years. A decade is 10 years and a century is 100 years."
+      },
+      {
+        "q": "What does reinterpretation mean in history?",
+        "options": ["Copying a source word for word", "Translating a document from another language", "Seeing something in a new or different light based on new evidence", "Removing a source from an archive"],
+        "answerIndex": 2,
+        "explanation": "Reinterpretation means to see something in a new or different light, often as a result of new evidence emerging."
+      },
+      {
+        "q": "Which of the following is an example of historical reinterpretation?",
+        "options": ["Building a new museum in Dublin", "The recognition of women's crucial roles in the Irish War of Independence based on new archival evidence", "Writing a new history textbook using the same sources", "Adding a new artefact to the National Museum"],
+        "answerIndex": 1,
+        "explanation": "Research into military archives and pension files revealed the crucial roles played by women in the Irish War of Independence — a classic example of reinterpretation."
+      }
+    ]
+  },
 {
   "Plantations of Ireland": {
-    "subtitle": "Revision for the Plantations topic.",
+    "subtitle": "Plantations",
     "icon": "🏰",
     "questions": [
       { "q": "In Irish history, what does the term 'Plantations' refer to?", "options": ["A new method of crop farming", "Irish land confiscated by the English Crown and colonised by British settlers", "A peace agreement between clans", "The building of monasteries"], "answerIndex": 1, "explanation": "Plantations involved land confiscation and settlement by British planters." },
